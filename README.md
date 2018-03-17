@@ -6,6 +6,9 @@ A `<LinearGradient>` component for react-native, as seen in
 Version 2.0 supports react-native >= 0.40.0
 
 ## Add it to your project
+Install the react-native-linear-gradient package in your React Native project.
+
+npm install --save react-native-linear-gradient
 
 You can try linking the project automatically:
 
